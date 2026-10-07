@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Paris",
+    "country": "France",
+    "category": "City",
+    "rating": "4.8",
+    "budget": "₹80,000",
+    "description": "Discover iconic landmarks, elegant streets, world-class museums and authentic French cuisine.",
+    "image": "/images/paris.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Bali",
+    "country": "Indonesia",
+    "category": "Beach",
+    "rating": "4.7",
+    "budget": "₹55,000",
+    "description": "Experience tropical beaches, peaceful temples, scenic rice terraces and island culture.",
+    "image": "/images/Bali.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Swiss Alps",
+    "country": "Switzerland",
+    "category": "Mountain",
+    "rating": "4.9",
+    "budget": "₹1,20,000",
+    "description": "Explore spectacular mountain scenery, alpine villages and unforgettable European landscapes.",
+    "image": "/images/SwissAlps.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Dubai",
+    "country": "UAE",
+    "category": "City",
+    "rating": "4.6",
+    "budget": "₹70,000",
+    "description": "Experience modern architecture, luxury shopping, desert adventures and world-famous attractions.",
+    "image": "/images/Dubai.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Maldives",
+    "country": "Maldives",
+    "category": "Beach",
+    "rating": "4.9",
+    "budget": "₹90,000",
+    "description": "Relax beside crystal-clear waters, white beaches and beautiful tropical island resorts.",
+    "image": "/images/maldives.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Manali",
+    "country": "India",
+    "category": "Mountain",
+    "rating": "4.7",
+    "budget": "₹25,000",
+    "description": "Enjoy mountain landscapes, peaceful valleys, adventure activities and refreshing nature.",
+    "image": "/images/manali.jpg"
+ }
+]
